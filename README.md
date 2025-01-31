@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ahsanhabib082/Leet_Code/tree/master/0001-two-sum) |
+## Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/ahsanhabib082/Leet_Code/tree/master/2384-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/ahsanhabib082/Leet_Code/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
