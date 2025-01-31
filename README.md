@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ahsanhabib082/Leet_Code/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/ahsanhabib082/Leet_Code/tree/master/0069-sqrtx) |
+| [2383-add-two-integers](https://github.com/ahsanhabib082/Leet_Code/tree/master/2383-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
